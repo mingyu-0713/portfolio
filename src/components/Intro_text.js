@@ -22,7 +22,7 @@ const Intro_text = () => {
         </div>
         <div>
         <h2 className="a-text3">학력</h2>
-        <p>경북소프트웨어고등학교 재학 중 (2021 03 ~ )</p> 
+        <p>경북소프트웨어고등학교 졸업 중 (2021 03 ~ )</p> 
         </div>
       </div>
     </div>
