@@ -1,0 +1,28 @@
+.codewave-container {
+    display: block;
+    width: 450px;
+    height: 100px;
+    background: #004581;
+    border-bottom: 0.5px solid white;
+    border-left: 0.5px solid white;
+    border-right: 0.5px solid white;
+    border-radius: 1px;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+.project_title_codewave {
+    color: white;
+    cursor: pointer;
+    position: relative;
+    bottom: 20px;
+    right: 65px;
+    width: 250px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.codewave_link {
+    color: white;
+    text-align: center;
+}

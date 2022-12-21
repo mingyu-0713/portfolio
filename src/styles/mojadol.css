@@ -1,0 +1,27 @@
+.mojadol-container {
+    display: block;
+    width: 450px;
+    height: 100px;
+    background: #845EC2;
+    border-bottom: 0.5px solid white;
+    border-left: 0.5px solid white;
+    border-right: 0.5px solid white;
+    border-radius: 1px;
+    margin-top: 100px;
+}
+
+.project_title_mojadol {
+    color: white;
+    cursor: pointer;
+    position: relative;
+    bottom: 20px;
+    right: 70px;
+    width: 250px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.mojadol_link {
+    color: white;
+    text-align: center;
+}
